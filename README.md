@@ -1,1 +1,3 @@
 # hello-world
+So Hey guys, this is my first demo project on GitHub.
+Basically, I am an android develepor with some above average programming skills...
